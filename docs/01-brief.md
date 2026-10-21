@@ -1,23 +1,31 @@
-# Brief — Piedra Viva
+# Brief — Keep-Strong
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-Piedra Viva es un emprendimiento "ficticio" perteneciente al rubro de la "construcción y terminaciones", dedicado a la venta y distribución de baldosas (microvibradas, rústicas y de exterior) y guardapolvos de la marca Budnik, además de ofrecer el servicio integral de instalación y pulido. Gestiona sus cotizaciones y atención de proyectos 100% online a través de WhatsApp y correo electrónico.
+**Keep-Strong** es un emprendimiento **real** del rubro **deporte y bienestar**. Acompaña a atletas de alto rendimiento y a deportistas amateur (running, ciclismo, triatlón, maratón y otras disciplinas de resistencia) a alcanzar sus objetivos deportivos mediante tres pilares: **rutinas de entrenamiento**, **descanso** y **alimentación**.
+
+Qué vende:
+
+- Planes de entrenamiento por disciplina y nivel (por ejemplo, preparación para una maratón o un triatlón).
+- Pautas de descanso y recuperación.
+- Planes de alimentación para entrenar, competir y recuperarse.
 
 ## Propuesta de valor
 
-Ayudamos a dueños de casa, arquitectos y constructores que buscan revestimientos duraderos a concretar sus proyectos sin complicaciones gracias a la venta directa de productos Budnik junto a un servicio llave en mano de instalación profesional y pulido efecto espejo para baldosas de interior.
+Keep-Strong no entrega solo una rutina: integra **entrenamiento, descanso y alimentación en un mismo plan** pensado para la meta de cada deportista (una maratón, un Ironman, mejorar una marca personal), sea profesional o amateur. Quien entrena en serio no tiene que armar su plan juntando rutinas sueltas, consejos de nutrición de distintas fuentes y su propia intuición sobre cuánto descansar.
 
 ## Objetivo del sitio
 
-- **Principal:** Recibir solicitudes de cotización y proyectos para la venta de productos junto con el servicio de instalación/pulido a través de WhatsApp o formulario de contacto.
-- **Secundario:** Posicionar la marca generando confianza al mostrar un catálogo de productos con un portafolio visual de trabajos e instalaciones ya realizadas.
+- **Principal:** vender online los planes de Keep-Strong y captar nuevos deportistas, que dejen sus datos o escriban para consultar por el plan que necesitan.
+- **Secundario:** posicionar la marca como una referencia confiable en entrenamiento, descanso y alimentación, con un blog que atraiga a corredores, ciclistas y triatletas y les dé contenido útil.
 
 ## Referentes
 
 | Marca | Qué hace bien |
 |---|---|
-| Budnik | Muestra fichas técnicas muy detalladas, formatos de productos y la resistencia específica según el tipo de uso (tráfico alto, interior o exterior). |
-| Baldosas Córdoba | Presenta de forma clara sus proyectos terminados e inspira confianza al mostrar el acabado final del trabajo de instalación y pulido tradicional. |
+| TrainingPeaks | Ofrece planes de entrenamiento organizados por disciplina, nivel y meta, y deja claro el recorrido de preparación semana a semana. |
+| Strava | Construye comunidad entre deportistas de resistencia y hace que registrar y compartir el entrenamiento se sienta simple y motivador. |
+
+<!-- Pendiente de confirmar con el estudiante: qué planes vende exactamente, y si prefiere otros referentes (idealmente alguno chileno). -->
