@@ -4,8 +4,7 @@
 
 ## Proto-persona principal
 
-<!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/matias.png) -->
-<!-- Pendiente: agregar la imagen del avatar de Matías en docs/img/matias.png -->
+<img src="img/matias.png" alt="Avatar de Matías, corredor amateur de 34 años" width="260">
 
 **Matías, 34 años.** Ingeniero comercial que trabaja en oficina y corre por las tardes. Prepara su primera maratón.
 
