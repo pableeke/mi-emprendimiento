@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# Keep-Strong — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+Keep-Strong ayuda a atletas de alto rendimiento y deportistas amateur (running, ciclismo, triatlón, maratón) a conseguir sus objetivos mediante rutinas de entrenamiento, descanso y alimentación.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
@@ -35,4 +35,4 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Uso de IA
 
-- **[Herramienta]:** para qué la usé y qué ajusté yo.
+- **Claude:** para generar borradores de los documentos de la Fase 1 (brief, proto-persona, funcionalidades, tecnologías y arquitectura de la información). Yo defino el emprendimiento, elijo la proto-persona y los productos, y reviso y ajusto cada documento.
