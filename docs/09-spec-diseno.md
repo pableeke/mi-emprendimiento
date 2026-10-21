@@ -1,4 +1,4 @@
-# Spec de diseño — [Nombre del emprendimiento]
+# Spec de diseño — Keep-Strong
 
 > Guía: [Spec de diseño](../evaluacion/guias/fase-2-specs/06-spec-de-diseno.md)
 
@@ -7,11 +7,13 @@ La spec de diseño tiene dos partes:
 1. **[`DESIGN.md`](../DESIGN.md)** (en la raíz): tu design system, en el formato que Stitch importa.
 2. **Este documento:** tus pantallas, escritas como prompts listos para pegar en Stitch.
 
-**Wireframes en Whimsical:** [pega aquí el link]
+**Wireframes en Whimsical:** https://whimsical.com/W9xRfKaYXgcbJPzjnXU2Vz (tablero compartido con los componentes calcados; los wireframes están bajo el título "WIREFRAMES — 6 PANTALLAS")
 
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 
-<!-- Captura de los wireframes: ![Wireframes](img/wireframes.png) -->
+![Wireframes de Keep-Strong: landing, tienda, ficha de producto, carrito, blog y artículo](img/wireframes.png)
+
+Los flujos se recorren así: **compra** (A Landing → B Tienda → C Ficha de producto → D Carrito) y **contenido** (E Blog → F Artículo → C Ficha de producto → D Carrito).
 
 ## Pantallas
 
