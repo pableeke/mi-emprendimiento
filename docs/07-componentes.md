@@ -2,7 +2,7 @@
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** https://whimsical.com/W9xRfKaYXgcbJPzjnXU2Vz
+**Tablero en Whimsical:** https://whimsical.com/pablo-ks/keep-strong-componentes-y-wireframes-W9xRfKaYXgcbJPzjnXU2Vz
 
 ![Componentes calcados](img/componentes.png)
 
