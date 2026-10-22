@@ -2,7 +2,7 @@
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
-**Tablero en Whimsical:** https://whimsical.com/7grt3HZhLE3ikKnv6krntA
+**Tablero en Whimsical:** https://whimsical.com/pablo-ks/keep-strong-moodboard-7grt3HZhLE3ikKnv6krntA
 
 ![Moodboard de Keep-Strong](img/moodboard.png)
 
