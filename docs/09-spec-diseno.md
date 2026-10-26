@@ -26,6 +26,8 @@ Pantalla: Landing de Keep-Strong, versión desktop. Usa el design system del pro
 Objetivo: que Matías, corredor amateur que prepara su primera maratón, entienda
 en segundos que Keep-Strong integra entrenamiento, descanso y alimentación, y
 llegue a los planes o deje sus datos para recibir una guía gratis.
+Usa los textos tal como están escritos, sin reescribirlos ni agregar cifras, porcentajes
+o estadísticas que no se pidan. No nombres a otras marcas.
 Componentes, de arriba hacia abajo:
 1. navbar con el logo "KEEP-STRONG", enlaces Planes, Blog, Preguntas y Contacto,
    buscador "Buscar planes…", favoritos y carrito con contador "2".
@@ -93,8 +95,9 @@ Componentes, de arriba hacia abajo:
    urbana). A la derecha: tag-category "Running", h1 "Plan maratón 16 semanas",
    estrellas con "(24 reseñas)", precio "$29.990" en title-md, input-field
    desplegable "Nivel" (Principiante) y "Duración" (16 semanas), button-primary
-   "Agregar al carrito", button-secondary "Consultar por WhatsApp" y el enlace
-   "Guardar en favoritos".
+   "Agregar al carrito" con el texto en una sola línea, button-secondary
+   "Consultar por WhatsApp" y el enlace "Guardar en favoritos". No agregues
+   bloques de garantía ni menciones a otras marcas.
 4. Pestañas: "Qué incluye" (activa), "Semana 1 (muestra)" y "Reseñas". Bajo "Qué
    incluye", la lista: "16 semanas de entrenamiento con sesiones de running",
    "Pauta de alimentación para entrenar", "Pauta de descanso y semanas de
@@ -120,7 +123,8 @@ Componentes, de arriba hacia abajo:
    A la derecha, cart-summary con el título "Resumen del pedido", "Subtotal:
    $44.980", un input-field "Cupón de descuento", "Total: $44.980",
    button-primary "Ir a pagar", el texto "Pago seguro. Recibirás tu plan por
-   correo." y el enlace "¿Dudas? Escríbenos por WhatsApp".
+   correo." y el enlace "¿Dudas? Escríbenos por WhatsApp" (obligatorio, bajo el botón).
+   No agregues métodos de pago, pasos del proceso ni menciones a otras marcas.
 4. footer.
 ```
 
@@ -139,7 +143,7 @@ Componentes, de arriba hacia abajo:
 4. Artículo destacado en dos columnas: imagen a la izquierda; a la derecha
    tag-category "Alimentación", h2 "Qué comer la semana antes de tu primera
    maratón", "Guía simple para llegar con energía y sin molestias. 6 min de
-   lectura." y el enlace "Leer artículo".
+   lectura." y el enlace "Leer artículo", sin nombres de personas.
 5. Fila de 3 card-article: "Cuántos días de descanso necesitas a la semana"
    (Descanso, 5 min de lectura), "Cómo organizar tus semanas para una maratón"
    (Entrenamiento, 7 min de lectura), "Checklist para el día de tu primera
@@ -156,6 +160,8 @@ Componentes, de arriba hacia abajo:
 Pantalla: Artículo del blog de Keep-Strong, versión desktop. Usa el design system del proyecto.
 Objetivo: que Matías lea la guía, comparta el artículo o comente, y llegue al plan
 de alimentación recomendado.
+Usa el texto del cuerpo tal como está escrito, sin reescribirlo. La imagen de
+portada no debe tener marcas comerciales ni nombres o números de competidores.
 Componentes, de arriba hacia abajo:
 1. navbar.
 2. Ruta de navegación: "Blog > Alimentación > Qué comer la semana antes de tu
