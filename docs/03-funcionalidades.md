@@ -21,7 +21,7 @@ Objetivos de Matías cuando entra al sitio de Keep-Strong:
 | Matías | Sentirse parte de una comunidad de corredores | El usuario debe poder comentar un artículo | Base (blog) | Deseable |
 | Matías | Compartir contenido útil con otros corredores | El usuario debe poder compartir un artículo en sus redes (Instagram, WhatsApp, X) | Base (blog) | Deseable |
 | Matías | Encontrar rápido el plan que necesita | El usuario debe poder buscar productos por nombre o palabra clave (por ejemplo, "maratón" o "10K") | Base (tienda) | Imprescindible |
-| Matías | Encontrar un plan que calce con su nivel y meta | El usuario debe poder filtrar productos por disciplina, nivel, objetivo y precio | Base (tienda) | Imprescindible |
+| Matías | Encontrar un plan que calce con su nivel y meta | El usuario debe poder filtrar productos por disciplina, nivel y precio | Base (tienda) | Imprescindible |
 | Matías | Entender qué incluye un plan y comprarlo sin complicaciones | El usuario debe poder ver el detalle de un plan, elegir su variante (duración y nivel) y agregarlo al carrito | Base (tienda) | Imprescindible |
 | Matías | Comprar el plan correcto sin dudas | El usuario debe poder ver qué incluye cada plan (semanas, sesiones, pauta de alimentación y descanso) y una muestra de la primera semana | Propia | Imprescindible |
 | Matías | Confiar en el plan antes de pagar | El usuario debe poder leer reseñas y testimonios de otros deportistas que usaron el plan | Propia | Imprescindible |

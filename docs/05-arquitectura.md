@@ -43,7 +43,7 @@ Instagram (cuenta de Keep-Strong)
 → Inicio (landing)
 → [Ver planes]
 → Tienda
-→ Filtra por disciplina "Running" y objetivo "Maratón"
+→ Filtra por disciplina "Running" y nivel "Principiante", o busca "maratón"
 → Ficha de producto (Plan maratón)
 → Lee qué incluye y las reseñas de otros corredores
 → ¿Le quedan dudas?

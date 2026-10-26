@@ -12,7 +12,7 @@
 | Diseño | Whimsical | Armar el moodboard, calcar componentes de sitios de referencia y dibujar los wireframes de cada pantalla. |
 | Diseño | Google Stitch | Generar el prototipo referencial de las 6 pantallas (landing, tienda, ficha de plan, carrito, blog y artículo) en desktop y mobile a partir del `DESIGN.md`. |
 | IA | Claude | Redactar borradores de los documentos, revisar la coherencia entre ellos y ayudar a escribir las specs; las decisiones las tomo yo. |
-| Editor | Por confirmar | Editar los archivos Markdown y, más adelante, el HTML y CSS del sitio. |
+| Editor | Editor web de GitHub (github.com) | Editar los archivos Markdown y, más adelante, el HTML y CSS del sitio. |
 
 ## Qué es funcional y qué es prototipo
 
