@@ -36,3 +36,4 @@ Incluye landing, blog y prototipo de tienda online.
 ## Uso de IA
 
 - **Claude:** para generar borradores de los documentos de la Fase 1 (brief, proto-persona, funcionalidades, tecnologías y arquitectura de la información). Yo defino el emprendimiento, elijo la proto-persona y los productos, y reviso y ajusto cada documento.
+- **Claude (Fase 2):** para armar el moodboard, los componentes y los wireframes en Whimsical, proponer y validar el contraste de la paleta celeste y gris, y redactar la spec de desarrollo (`docs/10-spec-desarrollo.md`). Yo elijo el estilo, la tipografía (Oswald) y reviso cada resultado. El `DESIGN.md` y los prompts de `docs/09-spec-diseno.md` los escribí yo.
