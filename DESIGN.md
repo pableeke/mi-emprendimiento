@@ -386,3 +386,6 @@ Fondo `inverse-surface`, logo, enlaces a Contacto, Preguntas frecuentes, Términ
 - No uses sombras fuertes ni degradados.
 - No pongas campos de formulario sobre el fondo `neutral`: su borde no alcanza el contraste mínimo.
 - No uses el placeholder como única etiqueta de un campo.
+- No inventes cifras, reseñas ni datos (atletas activos, porcentajes de éxito, años) que no estén en el prompt de la pantalla.
+- No nombres a otras marcas (TrainingPeaks, Strava, Nike u otras) ni uses el nombre de la proto-persona en textos visibles para el público.
+- No uses fotografías con marcas comerciales visibles ni con nombres o números de competidores reales.
