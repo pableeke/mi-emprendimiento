@@ -35,7 +35,7 @@ Coincide con la tabla "Qué es funcional y qué es prototipo" de `04-tecnologias
 | Navegar entre landing, tienda, blog y páginas legales | **Funcional:** enlaces entre archivos HTML |
 | Navegar artículos por categoría | **Funcional sin JavaScript:** chips con botones de opción (`input type="radio"`) y el selector CSS `:has()` que muestra solo los artículos de la categoría elegida |
 | Compartir un artículo en redes | **Funcional:** enlaces a WhatsApp y X; Instagram enlaza al perfil de Keep-Strong porque no ofrece un enlace para compartir desde sitios web |
-| Consultar por WhatsApp | **Funcional:** enlace `https://wa.me/569XXXXXXXX` (reemplazar por el número real) |
+| Consultar por WhatsApp | **Funcional:** enlace `https://wa.me/56975504598` (número real de Keep-Strong) |
 | Buscar y filtrar planes | **Prototipo visual:** los campos y filtros se ven y tienen estados, pero no filtran. El buscador de la navbar envía a `tienda.html` |
 | Ficha de producto y agregar al carrito | **Prototipo visual:** hay una sola ficha (`producto.html`, Plan maratón 16 semanas) a la que llevan todas las `card-plan`; "Agregar al carrito" lleva a `carrito.html`, que es estático |
 | Pestañas "Qué incluye / Semana 1 / Reseñas" | **Funcional sin JavaScript:** botones de opción y `:has()` |
@@ -99,17 +99,17 @@ El mapa de sitio de `05-arquitectura.md` tiene las categorías de la tienda y de
 | Desde | Elemento | Lleva a |
 |---|---|---|
 | `index.html` | Botón "Ver planes" del hero | `tienda.html` |
-| `index.html` | Botón "Consultar por WhatsApp" del hero | `https://wa.me/569XXXXXXXX` |
+| `index.html` | Botón "Consultar por WhatsApp" del hero | `https://wa.me/56975504598` |
 | `index.html` | Botón "Ver plan" de cada `card-plan` | `producto.html` |
 | `index.html` | `form-lead` "Quiero mi guía" | `index.html#enviado` (muestra `message-success`) |
 | `tienda.html` | Botón "Ver plan" de cada `card-plan` | `producto.html` |
 | `producto.html` | Botón "Agregar al carrito" | `carrito.html` |
-| `producto.html` | Botón "Consultar por WhatsApp" | `https://wa.me/569XXXXXXXX` |
+| `producto.html` | Botón "Consultar por WhatsApp" | `https://wa.me/56975504598` |
 | `producto.html` | Enlace de ruta "Tienda" | `tienda.html` |
 | `producto.html` | `card-plan` de "Planes relacionados" | `producto.html` |
 | `carrito.html` | Enlace "Seguir viendo planes" | `tienda.html` |
 | `carrito.html` | Botón "Ir a pagar" | `carrito.html#pago` (aviso de prototipo) |
-| `carrito.html` | Enlace "¿Dudas? Escríbenos por WhatsApp" | `https://wa.me/569XXXXXXXX` |
+| `carrito.html` | Enlace "¿Dudas? Escríbenos por WhatsApp" | `https://wa.me/56975504598` |
 | `blog.html` | Artículo destacado y enlace "Leer artículo" de cada `card-article` | `articulo.html` |
 | `articulo.html` | Botón "Ver plan de alimentación" | `producto.html` |
 | `articulo.html` | Botones "Compartir" WhatsApp, X e Instagram | `https://wa.me/?text=…`, `https://twitter.com/intent/tweet?url=…` y el perfil de Instagram de Keep-Strong |
